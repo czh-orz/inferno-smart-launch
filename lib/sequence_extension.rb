@@ -1,3 +1,0 @@
-module SequenceExtension
-  
-end
